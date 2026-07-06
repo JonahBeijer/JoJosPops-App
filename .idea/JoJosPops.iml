@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/google/apiclient" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/google/apiclient-services" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/google/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/JoJosPops/vendor/symfony/polyfill-php80" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

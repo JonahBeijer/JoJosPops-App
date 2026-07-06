@@ -10,6 +10,27 @@
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
   </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/composer" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/JoJosPops/vendor/psr/http-factory" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
